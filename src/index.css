@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    font-family: 'Pixelify Sans Variable', system-ui;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: bisque;
+  }
+  
